@@ -133,8 +133,8 @@ Online Boarding shows the largest gap between satisfied (4.03) and dissatisfied 
 
 ## Author
 
-**okalewinifred**
-- GitHub: [@okalewinifred](https://github.com/okalewinifred)
+**okelewinifred**
+- GitHub: [@okelewinifred](https://github.com/okelewinifred)
 
 ---
 
